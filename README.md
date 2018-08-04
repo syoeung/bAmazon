@@ -11,7 +11,7 @@ bAmazon asks the customer which product ID and amount purchase in order to deter
 
 
 Display sequence of events after app starts
-<img src="/img/promptForisting.PNG" alt="questions asked"/>
+<img src="/img/promptForListing.PNG" alt="questions asked"/>
 
 App must be ran in command line
 
