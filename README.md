@@ -22,4 +22,6 @@ npm install prompt
 
 After doing so , type in node bamazonCustomer.js to run app .
 
+Follow prompts to place an order .
+
 
