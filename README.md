@@ -2,7 +2,7 @@
 
 Using MySQL, the MySQL NPM Package, and the Prompt Package , i created a Amazon like app called bAmazon .
 
-The app shows the customer of what items bAmazon offers and then allows customers to place orders on the .
+The app shows the customer what items bAmazon offers and then allows customers to place orders on the item they want to purchase .
 
 Display current stock of bAmazon
 <img src="/img/bamazonListing.PNG" alt="listing screen shot"/>
